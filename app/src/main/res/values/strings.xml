@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WiFiP2PTest1</string>
+    <string name="available">Available</string>
+    <string name="unavailable">Unavailable</string>
+    <string name="invited">Invited</string>
+    <string name="connected">Connected</string>
+    <string name="failed">Failed</string>
+    <string name="unknown">Unknown</string>
+</resources>
